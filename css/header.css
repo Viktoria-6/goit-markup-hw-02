@@ -18,22 +18,22 @@
 .hedear-nav {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.nav-item:hover a,
-.nav-item:focus a {
+.nav-item a:hover,
+.nav-item a:focus {
   color: #404bbf;
 }
 .contacts {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contacts-item:hover a,
-.contacts-item:focus a {
+.contacts-item a:hover,
+.contacts-item a:focus {
   color: #404bbf;
 }
