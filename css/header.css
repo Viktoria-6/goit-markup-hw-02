@@ -2,36 +2,37 @@
   background: #fff;
 }
 .header-logo {
-  font-family: Noto Sans;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 133%;
+  line-height: 1.33333;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #2e2f42;
 }
 
-.logo-accent {
+.header-logo .logo-accent {
   color: #4d5ae5;
 }
 
 .hedear-nav {
   font-weight: 500;
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1, 5;
   letter-spacing: 0.02em;
 }
-.nav-item:hover,
-.nav-item:focus {
+.nav-item:hover a,
+.nav-item:focus a {
   color: #404bbf;
 }
 .contacts {
   font-weight: 400;
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1, 5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contacts-item:hover,
-.contacts-item:focus {
+.contacts-item:hover a,
+.contacts-item:focus a {
   color: #404bbf;
 }
