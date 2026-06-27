@@ -1,0 +1,37 @@
+.header {
+  background: #fff;
+}
+.header-logo {
+  font-family: Noto Sans;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 133%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.logo-accent {
+  color: #4d5ae5;
+}
+
+.hedear-nav {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+}
+.nav-item:hover,
+.nav-item:focus {
+  color: #404bbf;
+}
+.contacts {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.contacts-item:hover,
+.contacts-item:focus {
+  color: #404bbf;
+}
